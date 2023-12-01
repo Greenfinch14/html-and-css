@@ -62,7 +62,10 @@ p {
     background-color: #3e2723;
     padding: 10px;
     border-radius: 10px;
-    gap: 10px
+    gap: 10px;
+    width: 650px;
+    height:  650px;
+
   }
 
   .item-1{
